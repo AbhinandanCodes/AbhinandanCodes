@@ -1,4 +1,4 @@
-![](readme assets/banner/Github_banner.png)
+![]()
 # Abhinandan Ghosh
 Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games and fun projects. I really enjoy learning new languages and libraries in python, I'm constantly exploring new technologies and techniques to enhance my skills. I am intermediate at python but have skills in other tech stacks too which you can check below.
 
@@ -37,12 +37,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 
 ## Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abhinandancodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinandancodes&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandancodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandancodes&show_icons=true&theme=default" alt="github stats" /></p>
 
 
 ## Profile Stats
