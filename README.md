@@ -1,2 +1,2 @@
-![](https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/github_banner.jpg)
+![](https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/Github_banner.png)
 ### Hi there 👋
