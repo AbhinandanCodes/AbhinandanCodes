@@ -1,4 +1,4 @@
-![](https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/banner/Github_banner.png)
+![](readme assets/banner/Github_banner.png)
 # Abhinandan Ghosh
 Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games and fun projects. I really enjoy learning new languages and libraries in python, I'm constantly exploring new technologies and techniques to enhance my skills. I am intermediate at python but have skills in other tech stacks too which you can check below.
 
