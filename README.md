@@ -46,13 +46,13 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 ## Profile
 
-<a href="https://github.com/AbhinandanCodes">
+<p href="https://github.com/AbhinandanCodes">
   <img src="https://komarev.com/ghpvc/?username=AbhinandanCodes&color=blueviolet&style=flat-square&label=Profile+Visits" alt="Profile Visits" height="35">
-</a>
+</p>
 
-<a href="https://github.com/AbhinandanCodes">
+<p href="https://github.com/AbhinandanCodes">
   <img src="https://img.shields.io/github/stars/AbhinandanCodes?color=ffac33&style=flat-square&label=Stars" alt="Stars" height="35">
-</a>
+</p>
 
 
 
