@@ -31,7 +31,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 <table>
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/js.png" alt="JavaScript Logo" width="50px"></a></td>
-    <td style="width: 100px;"><a href="https://godotengine.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/godot.png" alt="Godot Logo" width="100px"></a></td>
+    <td style="width: 100px;"><a href="https://godotengine.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/godot.png" alt="Godot Logo" width="50px"></a></td>
   </tr>
 </table>
 
