@@ -48,7 +48,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=AbhinandanCodes&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/AbhinandanCodes)
 
-[![Stars](https://img.shields.io/github/stars/AbhinandanCodes?color=ffac33&style=flat&label=Stars)](https://github.com/AbhinandanCodes)
+[![Stars](https://img.shields.io/github/stars/AbhinandanCodes?color=ffac33&style=flat-square&label=Stars)](https://github.com/AbhinandanCodes)
 
 
 
