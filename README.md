@@ -5,7 +5,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 ## Tech Stack:
 
 ### Intermediate at:
-<a href="https://www.python.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/Python-logo.png" alt="Python Logo" width="75px" style="margin-right: 40px;"></a>
+<a href="https://www.python.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/Python-logo.png" alt="Python Logo" width="75px" style="margin-left: 70px;"></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/flask.png" alt="Flask Logo" width="75px" style="margin-right: 20px;"></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/mysql.png" alt="MySQL Logo" width="75px" style="margin-right: 20px;"></a>
 <a href="https://www.pygame.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/pygame.png" alt="Pygame Logo" width="75px" style="margin-right: 20px;"></a>
