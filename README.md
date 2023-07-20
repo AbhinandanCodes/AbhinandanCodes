@@ -37,13 +37,14 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 
 ## Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhinandancodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinandancodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandancodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinandanCodes&show_icons=true&count_private=true&hide=prs&theme=dark)](https://github.com/AbhinandanCodes)
 
 
 ## Profile
-[![](https://visitcount.itsvg.in/api?id=abhinandancodes&icon=0&color=12)](https://visitcount.itsvg.in)
+
+[![Profile Visits](https://komarev.com/ghpvc/?username=AbhinandanCodes&color=blueviolet)](https://github.com/AbhinandanCodes)
+[![Stars](https://img.shields.io/github/stars/AbhinandanCodes?color=ffac33&style=flat)](https://github.com/AbhinandanCodes)
 
 
 
