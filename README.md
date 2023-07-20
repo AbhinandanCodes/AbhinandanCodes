@@ -37,6 +37,8 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 
 ## Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkushalch&layout=compact" alt="top languages" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandancodes&show_icons=true&theme=default" alt="github stats" /></p>
 
 
