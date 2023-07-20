@@ -8,7 +8,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 ### Intermediate at:
 <table>
   <tr>
-    <td><a href="https://www.python.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/Python-logo.png" alt="Python Logo" width="50px"></a></td>
+    <td><a href="https://www.python.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/Python-logo.png" width="50px"></a></td>
     <td><a href="https://flask.palletsprojects.com/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/flask.png" alt="Flask Logo" width="50px"></a></td>
     <td><a href="https://www.mysql.com/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/mysql.png" alt="MySQL Logo" width="50px"></a></td>
     <td><a href="https://www.pygame.org/"><img src="https://github.com/AbhinandanCodes/AbhinandanCodes/blob/main/readme%20assets/logo/pygame.png" alt="Pygame Logo" width="50px"></a></td>
