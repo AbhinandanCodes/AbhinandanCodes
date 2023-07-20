@@ -1,4 +1,4 @@
-<a><img src="readme assets/banner"></a>
+<a><img src="readme assets/banner/Github_banner.png"></a>
 # Abhinandan Ghosh
 Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games and fun projects. I really enjoy learning new languages and libraries in python, I'm constantly exploring new technologies and techniques to enhance my skills. I am intermediate at python but have skills in other tech stacks too which you can check below.
 
