@@ -41,6 +41,7 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 <p href="https://github.com/AbhinandanCodes">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=abhinandancodes&show_icons=true&theme=dark" alt="github stats" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhinandandancodes&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ## Profile Stats
 
@@ -51,5 +52,6 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 <p href="https://github.com/AbhinandanCodes">
   <img src="https://img.shields.io/github/stars/AbhinandanCodes?color=ffac33&style=flat-square&label=Stars" alt="Stars" height="35">
 </p>
+
 
 
