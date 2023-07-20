@@ -40,6 +40,8 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinandanCodes&show_icons=true&count_private=true&hide=prs&theme=dark)](https://github.com/AbhinandanCodes)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanCodes&theme=dark)](https://github.com/AbhinandanCodes)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanCodes&layout=compact&theme=dark)](https://github.com/AbhinandanCodes)
 
 
