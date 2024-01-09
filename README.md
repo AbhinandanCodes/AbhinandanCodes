@@ -13,7 +13,6 @@ Hello there! 👋 I'm Abhinandan Ghosh from India and I love ❤ creating games 
     <td><a href="https://www.mysql.com/"><img src="readme assets/logo/mysql.png" width="50px"></a></td>
     <td><a href="https://www.pygame.org/"><img src="readme assets/logo/pygame.png" width="50px"></a></td>
     <td><a href="https://www.sqlite.org/"><img src="readme assets/logo/sqlite.png" width="50px"></a></td>
-    <td><a href="https://unity.com/"><img src="readme assets/logo/unity.png" width="50px"></a></td>
   </tr>
 </table>
 
