@@ -6,39 +6,20 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 
 ## 🔧 Technologies & Tools
 
-
 ### Languages:
-<a href="https://www.python.org/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="60">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="60">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="60">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" width="60">
-</a>
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 
 ### Frameworks & Libraries:
-<a href="https://reactjs.org/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="60">
-</a>
-<a href="https://nodejs.org/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="60">
-</a>
-<a href="https://expressjs.com/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express.js" width="60">
-</a>
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
 
 ### Databases:
-<a href="https://www.mongodb.com/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="60">
-</a>
-<a href="https://www.mysql.com/" style="text-decoration: none; color: inherit; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="60">
-</a>
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
