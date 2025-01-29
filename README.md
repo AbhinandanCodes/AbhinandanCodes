@@ -1,4 +1,7 @@
-# Hi there, I'm Abhinandan Ghosh! 👋
+<p align="center">
+  <img src="./github-header-image.png" alt="Header">
+</p>
+
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** specializing in the **MERN stack** and a **Python** enthusiast. I love building efficient, scalable, and user-friendly applications while continuously learning and exploring new technologies.
 
@@ -25,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 ---
 
 ### 📫 How to Reach Me:
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/abhinandan-ghosh-9a32832b7/)   &nbsp; &nbsp; [![Twitter](https://img.icons8.com/ios-filled/50/00ACEE/twitter.png)](https://x.com/Abhinandan_2207)
+[![LinkedIn](https://img.icons8.com/?size=70&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/abhinandan-ghosh-9a32832b7/)   &nbsp; &nbsp; [![Twitter](https://img.icons8.com/?size=70&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/Abhinandan_2207)
 
 ---
 
