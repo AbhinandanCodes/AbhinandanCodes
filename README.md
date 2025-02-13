@@ -33,5 +33,5 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 ---
 
 ## 📊 GitHub Stats
-![abhinandanCodes's Stats](https://github-readme-stats.vercel.app/api?username=abhinandanCodes&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![abhinandanCodes's Stats](https://github-readme-stats.vercel.app/api?username=abhinandanCodes&theme=dark&show_icons=true&hide_border=true&count_private=false) </br>
 ![abhinandanCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanCodes&theme=dark&show_icons=true&hide_border=true&layout=compact)
